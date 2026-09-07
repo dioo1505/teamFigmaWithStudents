@@ -16,3 +16,12 @@
   color: orange;
   text-align: center;
 }
+
+/* ziyoviddin's page */
+.subtitle {
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  text-align: center;
+  margin-top: 20px;
+}
