@@ -16,3 +16,11 @@
   color: orange;
   text-align: center;
 }
+/* kalimulloh's page */
+.lorem{
+  color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  }
