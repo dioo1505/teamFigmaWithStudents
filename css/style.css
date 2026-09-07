@@ -22,4 +22,17 @@
   font-size: 80px;
   font-weight: 700;
   font-family: fantasy;
+
+/* ziyoviddin's page */
+.subtitle {
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  text-align: center;
+  margin-top: 20px;
+/* Sodoqjon's page */
+.btn{
+  background-color: burlywood;
+  color: brown;
+  font-size: 20px;
 }
